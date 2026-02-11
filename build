@@ -1,0 +1,4 @@
+#! /bin/bash
+
+pnpm pack --filter ./create
+mv ./create-1.0.0.tgz create.tgz

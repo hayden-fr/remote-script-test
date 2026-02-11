@@ -1,0 +1,3 @@
+#! /bin/bash
+
+npx https://raw.githubusercontent.com/hayden-fr/remote-script-test/main/create.tgz

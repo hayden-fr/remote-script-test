@@ -1,7 +1,0 @@
-{
-  "name": "create",
-  "version": "1.0.0",
-  "private": true,
-  "bin": "create.js",
-  "files": ["create.js"]
-}

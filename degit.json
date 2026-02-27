@@ -1,6 +1,0 @@
-[
-  {
-    "action": "remove",
-    "files": ["create", "build", "create.tgz"]
-  }
-]

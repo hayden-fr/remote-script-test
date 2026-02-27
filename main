@@ -1,3 +1,0 @@
-#! /bin/bash
-
-pnpx https://raw.githubusercontent.com/hayden-fr/remote-script-test/refs/heads/main/create.tgz
